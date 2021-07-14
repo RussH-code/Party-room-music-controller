@@ -34,6 +34,9 @@ To access the Spotify API, we use the following steps.
 For detailed information, check out the documentation on <a href="https://developer.spotify.com/documentation/general/guides/authorization-guide/">Spotify API</a>
 
 ---
-References: Tech with Tim - Django & React - <a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j">Full Stack Web App Tutorial</a>
+References: 
+1. Tech with Tim - Django & React - <a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j">Full Stack Web App Tutorial</a>
+2. <a href="https://www.django-rest-framework.org/">Django Rest-framework</a>
+3. Mike Dane - <a href="https://www.youtube.com/watch?v=ABQLwlE8MUA">React js in 3.5 hours</a>
 
 
