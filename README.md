@@ -21,7 +21,7 @@ App Name | Purpose
 
 ## Spotify API
 
-![]()
+![](https://github.com/RussH-code/Party-room-music-controller/blob/main/spotify%20api%20workflow.PNG)
 
 To access the Spotify API, we use the following steps.
 1. Application requests for authorization; the user logs in and authorizes access
