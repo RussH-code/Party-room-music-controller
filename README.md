@@ -29,6 +29,8 @@ To access the Spotify API, we use the following steps.
 3. Use the access token to access the Spotify Web API; Spotify returns requested data such as music library. This also gives control to user to pause/skip songs
 4. Access token expires every 1 hour. So we need to requests a refreshed access token; Spotify returns a new access token to your app
 
+<small>Note: Only premium users can access controls (play/pause/skip) through API. Regular users won't be able to enjoy these functions.
+
 For detailed information, check out the documentation on <a href="https://developer.spotify.com/documentation/general/guides/authorization-guide/">Spotify API</a>
 
 
